@@ -1,5 +1,5 @@
 
 En este capítulo veremos cómo usar GitHub para alojar repositorios en remoto.
 
-Añadimos el libro número 1
-Añadimos el libro número 2
+Añadimos el libro número 1.
+Añadimos el libro número 2.
